@@ -1,0 +1,1 @@
+## These are Frequently asked python interview questions
