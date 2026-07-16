@@ -1,0 +1,5 @@
+Palindrome -> use isalnum to filter number, alphabets | extended slice to return bool
+First non repeating -> Counter, two for loops
+remove duplicates without chnaging order -> set variable | for loop: if not in set, then append
+count vowels -> set for vowels | if vowels in set, then count
+second largest -> if less than len 2, return None | initialize: first, second | condition
