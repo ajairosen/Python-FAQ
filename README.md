@@ -1,1 +1,1 @@
-## These are Frequently asked python interview questions and DSA concepts
+## These are Frequently asked python interview questions and DSA concepts.
