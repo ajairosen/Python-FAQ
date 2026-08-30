@@ -8,7 +8,7 @@ async def fetch_data(param):
     return f'Result for {param}'
 
 async def main():
-    task_1 = asyncio.create_task(fetch_data(1))
+    task_1 = asyncio.create_task(fetch_data(5))
     task_2 = asyncio.create_task(fetch_data(2))
     result_1 = await task_1
     print('Completed task 1')
